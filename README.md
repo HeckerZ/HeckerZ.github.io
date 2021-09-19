@@ -2,7 +2,7 @@
 
 开源地址 [ATRI OS](https://github.com/HeckerZ/ATRIOS)
 
-下载最新 [ATRI OS DOWNLOAD](https://heckerz.github.io/atri-os/atri-os-release.iso
+下载最新 [ATRI OS DOWNLOAD](https://heckerz.github.io/atri-os/atri-os-release.iso)
 
 ARM64(未添加)
 
